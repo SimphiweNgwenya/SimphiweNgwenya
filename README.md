@@ -1,6 +1,6 @@
 # Hello, I'm Simphiwe Ngwenya! 👋
 
-I hold a Bachelor of Science degree majoring in Applied Mathematics and Finance, and I hold a Bachelor of Science Honours degree in Mathematical Sciences. I am currently pursuing a Master's in Business Analytics and Big Data.
+I am a data enthusiast with a strong foundation in Mathematics and a passion for extracting insights from complex data sets. With a Bachelor's in Applied Mathematics and currently pursuing a Master's in Business Analytics and Big Data, I have honed my analytical skills to tackle business challenges using data-driven approaches. I am passionate about leveraging the power of analytics and big data to drive strategic decision-making and create value.
 
 ## 📊 GitHub Stats:
 
@@ -37,10 +37,8 @@ I hold a Bachelor of Science degree majoring in Applied Mathematics and Finance,
 - [Project Title 1](https://github.com/yourusername/project1)
 - [Project Title 2](https://github.com/yourusername/project2)
 
-Feel free to take a look at my repositories and don't hesitate to contact me if you have any questions or if you want to collaborate on a project!
+I am always eager to learn and explore new challenges. Feel free to take a look at my repositories and don't hesitate to contact me if you have any questions or if you want to collaborate on a project!
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
