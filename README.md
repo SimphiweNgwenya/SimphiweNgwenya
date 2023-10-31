@@ -1,6 +1,6 @@
 # Hello, I'm Simphiwe Ngwenya! 👋
 
-I hold a Bachelor of Science degree in majoring in Applied Mathematics and Finance and I hold a Bachelor of Science Honours degree in Mathematical Sciences. I am currently pursuing a Master's in Business Analytics and Big Data.
+I hold a Bachelor of Science degree majoring in Applied Mathematics and Finance, and I hold a Bachelor of Science Honours degree in Mathematical Sciences. I am currently pursuing a Master's in Business Analytics and Big Data.
 
 ## 📊 GitHub Stats:
 
@@ -13,12 +13,12 @@ I hold a Bachelor of Science degree in majoring in Applied Mathematics and Finan
 - **Data Analysis:** Python, R, SQL, Excel
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Big Data Technologies:** Hadoop, Spark
-- **Other Tools:** Tableau, Power BI, Google Analytics
+- **Other Tools:** Tableau, Power BI, Google Analytics, Looker Studio
 
 ## 📚 Education:
 
 - Bachelor of Science in Mathematics of Finance
-- Bachelor of Science in Mathematical Sciences
+- Bachelor of Science Honours in Mathematical Sciences
 - Master's in Business Analytics and Big Data (in progress)
 
 ## 📬 Let's Connect!
