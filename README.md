@@ -17,9 +17,9 @@ I am a data enthusiast with a strong foundation in Mathematics and a passion for
 
 ## 📚 Education:
 
-- Bachelor of Science in Mathematics of Finance
-- Bachelor of Science Honours in Mathematical Sciences
-- Master's in Business Analytics and Big Data (in progress)
+- Bachelor of Science in Mathematics of Finance, Wits University-South Africa
+- Bachelor of Science Honours in Mathematical Sciences, Wits University-South Africa
+- Master's in Business Analytics and Big Data (in progress), IE University-Spain
 
 ## 📬 Let's Connect!
 
