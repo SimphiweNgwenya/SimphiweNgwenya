@@ -23,8 +23,7 @@ I hold a Bachelor of Science degree in majoring in Applied Mathematics and Finan
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/simphiwe-ngwenya-2586bb192/))
-- 🐦 [Twitter](https://twitter.com/yourusername)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/simphiwe-ngwenya-2586bb192/)
 - 📸 [Instagram]([https://instagram.com/yourusername](https://www.instagram.com/simphiwengwenya/)
 - 📧 Email: ssngwenya98@gmail.com
 
